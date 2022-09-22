@@ -12,7 +12,7 @@ from ete3 import Tree
 
 ############## Presentation ################
 print("Mono4Gene ver 1.1 beta  Jul 2021")
-print("A procudere for testing the monophyly of a putative group over different gene trees.")
+print("A procedure for testing the monophyly of a putative group over different gene trees.")
 print("by Vitor Miranda & Saura Rodrigues Silva")
 print("UNESP - São Paulo State University - Jaboticabal, Brazil")
 print("e-mail: vitor.miranda@unesp.br\n")
