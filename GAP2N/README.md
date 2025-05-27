@@ -21,7 +21,7 @@ Two files are available in the repository for tests:
 rbcl10seqs.fas
 rbcl1266seqs.fas
 
-Both files contains sequences of (10 and 1266 sequences) rbcL chloroplast gene from GenBank.
+Both files contain sequences of (10 and 1266 sequences) rbcL chloroplast gene from GenBank.
 
 Thus, you can run the tool using as described:
 
